@@ -1,5 +1,5 @@
-## Seja bem vindo ao meu perfil 🦇
-## Sobre Mim 🕸️
+## Seja bem vindo ao meu perfil 
+## Sobre Mim 
 Olá! Me chamo Leonardo Nogueira, tenho 25 anos e sou formado em Ciência da Computação, me formei em 2024. Atualmente estou focado no desenvolvimento Front-End.
 
 <br>
@@ -11,7 +11,7 @@ Olá! Me chamo Leonardo Nogueira, tenho 25 anos e sou formado em Ciência da Com
 
 <br>
 
-### 🕷️ Principais Habilidades  
+### Principais Habilidades  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,7 +21,7 @@ Olá! Me chamo Leonardo Nogueira, tenho 25 anos e sou formado em Ciência da Com
 
 <br>
 
-### 🎃 Redes Sociais  
+### Redes Sociais  
 <div> 
   <a href="https://instagram.com/leozjn7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:leonogueiralemes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
