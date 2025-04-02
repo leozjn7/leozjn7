@@ -1,5 +1,8 @@
 ## Seja bem vindo ao meu perfil 🦇
+## Sobre Mim
+Olá! Me chamo Leonardo Nogueira, tenho 25 anos e sou formado em Ciência da Computação, me formei em 2024. Atualmente estou focado no desenvolvimento Front-End.
 
+<br>
 <div>
    <a href="https://github.com/leozjn7">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leozjn7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
