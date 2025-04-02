@@ -1,5 +1,5 @@
 ## Seja bem vindo ao meu perfil 🦇
-## Sobre Mim
+## Sobre Mim 🕸️
 Olá! Me chamo Leonardo Nogueira, tenho 25 anos e sou formado em Ciência da Computação, me formei em 2024. Atualmente estou focado no desenvolvimento Front-End.
 
 <br>
